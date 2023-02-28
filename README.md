@@ -8,5 +8,5 @@ library('shinydashboard')
 library('leaflet')
 library('shinyjs')
 
-and folder /wwww
+and a subfolder /www
 which should contain file releases.md
