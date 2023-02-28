@@ -1,12 +1,7 @@
 # shiny-sampling-grid-generator
 
 Reguires the following packages:
-library('ggplot2')
-library('summarytools')
-library('dplyr')
-library('shinydashboard')
-library('leaflet')
-library('shinyjs')
+'ggplot2','summarytools','dplyr', 'shinydashboard', 'leaflet', 'shinyjs'
 
 and a subfolder /www
 which should contain file releases.md
