@@ -1,6 +1,6 @@
 # shiny-sampling-grid-generator
 
-Reguires the following packages:
+Requires the following packages:
 'ggplot2','summarytools','dplyr', 'shinydashboard', 'leaflet', 'shinyjs'
 
 and a subfolder /www
